@@ -1,0 +1,22 @@
+VA Dark Site Process:
+Paraphrase or key PW: v555
+
+#1 Corp-com notifies and provide us the Flight Number and Date of the flight.
+
+#2 Web Updates the following within a 20 min window:
+
+In Akamai:
+Update the date: dark_press_releases.html
+Update the Flight Number and Date: index.html
+
+In CMS:
+Update copy received from CorpComm
+/dark-site/update-1-on-virgin-america-aircraft-incident
+(DO NOT CHANGE THE URL AND TAB TITLE)
+
+#3 Notify Jake for activation and Corp-com
+
+#4 Web standby for Press Release, News, etc.
+
+
+******************************************************************Other Press Release ASAP but normal pace:#1 Update the date and uncomment out press per release (2nd, 3rd, etc. ) in AKAMAIdark_press_releases.html#2 Update the copy in CMS received from CorpComm/dark-site/update-2-on-virgin-america-aircraft-incident#3 Notify Jake and Corp-com

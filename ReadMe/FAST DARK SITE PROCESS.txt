@@ -1,0 +1,39 @@
+New VX Dark Site Process:
+
+VA/AS calls VA Help desk 24/7 > On-call Infrastructure Organization > to confirm launch of the Dark Site.
+
+#1 On-Call notifies VA Web Team the incident through text message/phone call.
+
+#2 Alaska Corp-Com provides VA Web Team the following information through email:
+- Flight Number
+- Cities to/from
+- Alaska Codeshare flight number
+- Alert Bar copy
+
+#3 VA Web Team updates the following within a 20 min window:
+
+- In Akamai via FTP:
+INITIAL POSTING (does not include Empathia number):
+Update the Flight Number, Cities to/from, Alaska Codeshare Flt Number:
+File: index.html (screenshot attached)
+
+- In CMS:
+Update copy of the Alert Bar received from Alaska Corp-Com:
+/traveler_advisory
+
+#4 VA Web Team notifies help@virginamerica.com through email for Dark Site activation
+- Help Desk escalates to Kerry Bremer via phone if necessary
+- Help Desk escalates to Jake McClean via phone if necessary
+
+IT activates the Dark Site.
+
+#5 VA Web Team will be on standby for the Empathia number from Alaska Corp-com.
+Update “UPDATED POSTING” (After green light is given that number is staffed, Empathia number is added).
+VA Web Team notifies help@virginamerica.com  through email for UPDATED POSTING version of Dark Site activation
+- Help Desk escalates to Kerry Bremer via phone if necessary
+- Help Desk escalates to Jake McClean via phone if necessary
+
+IT activates the Dark Site.
+
+File: updated-index.html (screenshot attached) upload to Akamai as index.html to overwrite.
+
